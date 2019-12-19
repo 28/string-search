@@ -1,0 +1,1 @@
+ocamlc -o search str.cma search.ml

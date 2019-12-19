@@ -1,0 +1,6 @@
+*.cmo
+*.cma
+*.cmi
+_opam/
+search
+source.txt
